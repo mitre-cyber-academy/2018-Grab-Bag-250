@@ -18,10 +18,11 @@ We made a encoder (in Game Maker Studio) that is able to take text input and tra
 
 ## What the Morse Code Should Say ##
 **(NOTE: this may not be exactly what you get as the video sends out the Morse code on a loop)**
+
 jar jar blinks is how you feel right now here is the data to be exfiltrated mca orange delta pi janeway mca jar jar blinks is how you feel right now here is the data to be exfiltrated mca orange delta pi janeway mca jar jar blinks is how you feel right now here is the data to be exfiltrated mca orange delta pi janeway mca
 
 # Flag
 
-flag is: MCA{JG04fNo0bNumyipYapskiddleBop}
+flag is: mca orange delta pi janeway mca
 
 
